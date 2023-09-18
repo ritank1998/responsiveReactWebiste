@@ -1,0 +1,71 @@
+.nav-item{
+    padding: 10px;
+}
+.navbar-brand{
+    margin-left: 20px;
+}
+nav{
+    margin-top: 5px;
+    opacity: 0.8;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px grey;
+}
+nav ul li a{
+    font-weight: 900;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.signIn{
+    background-color: aliceblue;
+    border-radius: 10px;
+    box-shadow: 2px 8px 10px black;
+}
+section{
+    margin-top: 50px;
+    border-radius: 20px;
+    max-height: 800px;
+    margin-left: 20px;
+    box-shadow: 2px 2px 2px grey;
+    background-image: url("../images/back.jpg");
+}
+.text{
+    border-radius: 5px;
+    box-shadow: 2px;
+    max-height: 500px;
+}
+.animated{
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.text1{
+    font-size: 1000;
+    font-weight: 700;
+    font-family: "Sofia", sans-serif;
+
+}
+.b2{
+    font-size: 800;
+    font-weight: bold;
+    color: blue;
+    font-family: "Audiowide", sans-serif;
+    
+}
+.line3{
+    font-weight: 500;
+    font-family: fantasy;
+    color: grey;
+}
+.btn1{
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 30px;
+    border-radius: 50px;
+    transition: 0.5s;
+    color: #3498db;
+    border: 2px solid #3498db;
+    text-decoration: none;
+}
